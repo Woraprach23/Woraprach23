@@ -6,6 +6,7 @@
     Public Property Address1 As String
     Public Property Address2 As String
     Public Property Address3 As String
+    
 
 #Region "Contructor"
     Public Sub New()
